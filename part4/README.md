@@ -1,6 +1,7 @@
 Part 4 - Simple Web Client
 In this phase, you’ll be focusing on the front-end development of your application using HTML5, CSS3, and JavaScript ES6. Your task is to design and implement an interactive user interface that connects with the back-end services you have developed in previous parts of the project.
 
+
 Objectives
 Develop a user-friendly interface following provided design specifications.
 Implement client-side functionality to interact with the back-end API.
